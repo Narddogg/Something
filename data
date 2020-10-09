@@ -1,0 +1,6 @@
+public class HelloWorld {
+	public static void main(String[] args) {
+
+		System.out.println("I think I'm doing this right");
+		System.out.println("Am I doing this right?");
+		
